@@ -15,4 +15,6 @@ Makefile.in
 /depcomp
 /install-sh
 /missing
-/stamp-h1
+/stamp-
+
+*.idea
